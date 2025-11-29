@@ -27,7 +27,7 @@ So in summary, it is generating random private keys and checking their balances 
 Android IOS Windows macOS Linux
 ```
 git clone https://github.com/HugoXOX3/CryptoWalletMiner
-cd BTC Hunter #Can be change to other you want
+cd BTC Hunter
 pip3 install bitcoin
 cd Bitcoin_Wallet_Miner
 python3 main.py
